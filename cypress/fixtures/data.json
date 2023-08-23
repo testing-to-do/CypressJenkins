@@ -1,0 +1,43 @@
+{
+    "institutionData":{
+        "validUsername": "griqa1",
+        "validPassword": "brz793p3",
+        "invalidUsername": "xxxyxyx",
+        "invalidPassword": "1234567",
+        "invalidError": "Please provide a valid institution name and password to sign in.",
+        "emptyError": "Please provide a valid institution name to sign in."
+    },
+    "signInPage":{
+        "invalidEmail": "qtester@gmail.com",
+        "validEmail": "qtester98+1234@gmail.com",
+        "validPassword": "password",
+        "invalidPassword": "12345678",
+        "emptyError": "Please provide a valid email address to sign in.",
+        "invalidError": "Please provide a valid email address and password to sign in."
+        
+    },
+    "apiTesting":{
+        "urlInterceptTo": "https://www.google-analytics.com/analytics.js",
+        "location": "Los Angeles",
+        "locationFromList": "Los Angeles, CA"
+    },
+    "projTest":{
+        "urlInterceptTo": "https://www.google-analytics.com/analytics.js",
+        "location": "Los Angeles",
+        "locationFromList": "Los Angeles, CA",
+        "variablesChecked1": "% Educational Attainment | Bachelor's degree or higher",
+        "variablesChecked2": "Median Household Income",
+        "projectNameOne": "New Project",
+        "projectNameTwo": "New Project 2",
+        "city": "Washington",
+        "fullCityName": "Washington, DC",
+        "newProjName": "New Project 1 - 1"
+    },
+    "tourTitles": ["Here’s a quick tour of SimplyAnalytics.", "Get started in seconds.", "Data, Locations, and Businesses", "Views", "Your workspace", "Thanks for watching this tutorial!"],
+    "tourTitlesBackForth": ["Here’s a quick tour of SimplyAnalytics.", "Get started in seconds.", "Data, Locations, and Businesses", "Views", "Your workspace"],
+    "tooltipMessages": ["That's what this widget is", "ThemeRoller: jQuery UI's theme builder application", "We ask for your age only for statistical purposes."]
+
+        
+    
+
+}

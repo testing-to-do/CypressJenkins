@@ -4,7 +4,6 @@
 # Cypress generated files
 /cypress/videos
 /cypress/screenshots
-/cypress/fixtures
 /cypress/results
 
 # Cypress cache
