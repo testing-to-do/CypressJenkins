@@ -5,7 +5,7 @@
 /cypress/videos
 /cypress/screenshots
 /cypress/results
-
+/cypress/mochawesome-report
 # Cypress cache
 /.cache
 

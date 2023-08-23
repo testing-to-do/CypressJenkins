@@ -12,6 +12,13 @@ module.exports = defineConfig({
     testIsolation: false,
     viewportWidth: 1920,
     viewportHeight: 1080,
-    chromeWebSecurity: false
+    chromeWebSecurity: false,
+    reporter: 'mochawesome',
+    reporterOptions: {
+      reportDir: 'cypress/results',
+      overwrite: false,
+      html: false,
+      json: true,
+    },
   },
 });
